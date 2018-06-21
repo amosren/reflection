@@ -1,2 +1,0 @@
-# reflection
-udacity reflection
